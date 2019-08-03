@@ -1,0 +1,12 @@
+<widget id="resizeable Div.widget.Resizeable" needsEntityContext="false" xmlns="http://www.mendix.com/widget/1.0/">
+    <name>Resizeable</name>
+    <description>Make a div resizeable</description>
+    <icon/>
+    <properties>
+        <property key="findClass" type="string" required="false" defaultValue="">
+            <caption>Class</caption>
+            <category>Appearance</category>
+            <description>This is the class of your div that you want to be resizeable</description>
+        </property>
+    </properties>
+</widget>
